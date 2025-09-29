@@ -1,0 +1,7 @@
+= Spring Cleaning: Dev2Next 2025
+
+This is an anonymized version of an app that is being actively contributed to on GitHub. I've changed the package names, removed the domain logic, and squashed the commit history so that the original source is unidentifiable.
+
+The purpose of this project and its commits is to show the changes I'd made to the application as a security professional and why I'd do each one.
+
+Enjoy!
